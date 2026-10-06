@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="330" viewBox="0 0 490 330" role="img" aria-labelledby="t">
+<title id="t">Profile card for Skaiiner</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#c9d1d9}
+.m{fill:#8b949e}
+.l{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s steps(1) infinite}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none}}
+</style>
+<rect width="490" height="330" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="34" rx="10" fill="#161b22"/><rect y="24" width="490" height="10" fill="#161b22"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/><circle cx="38" cy="17" r="5" fill="#ffbd2e"/><circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text x="76" y="21" class="m">skaiiner@github ~ $ neofetch</text>
+<text class="l" style="animation-delay:0.35s" y="78"><tspan x="24" fill="#39d353" font-weight="bold">user</tspan><tspan x="118" fill="#c9d1d9">Skaiiner (MDCL)</tspan></text><text class="l" style="animation-delay:0.51s" y="99"><tspan x="24" fill="#39d353" font-weight="bold">since</tspan><tspan x="118" fill="#c9d1d9">2021</tspan></text><text class="l" style="animation-delay:0.67s" y="120"><tspan x="24" fill="#39d353" font-weight="bold">role</tspan><tspan x="118" fill="#c9d1d9">Software developer</tspan></text><text class="l" style="animation-delay:0.83s" y="141"><tspan x="24" fill="#39d353" font-weight="bold">stack</tspan><tspan x="118" fill="#c9d1d9">TypeScript  ·  Python  ·  PowerShell</tspan></text><text class="l" style="animation-delay:0.99s" y="162"><tspan x="24" fill="#39d353" font-weight="bold">focus</tspan><tspan x="118" fill="#c9d1d9">desktop apps  ·  local-first AI  ·  computer vision</tspan></text><text class="l" style="animation-delay:1.15s" y="183"><tspan x="24" fill="#39d353" font-weight="bold">projects</tspan></text><text class="l" style="animation-delay:1.31s" y="204"><tspan x="36" fill="#58a6ff">▸ GeoPilot  iPhone GPS location simulator (desktop)</tspan></text><text class="l" style="animation-delay:1.47s" y="225"><tspan x="36" fill="#58a6ff">▸ Vocal AI Studio  local-first vocal studio</tspan></text><text class="l" style="animation-delay:1.63s" y="246"><tspan x="36" fill="#58a6ff">▸ VisageCam  virtual camera with face filters</tspan></text>
+<rect x="24" y="277" width="18" height="10" rx="2" fill="#161b22"/><rect x="46" y="277" width="18" height="10" rx="2" fill="#0e4429"/><rect x="68" y="277" width="18" height="10" rx="2" fill="#006d32"/><rect x="90" y="277" width="18" height="10" rx="2" fill="#26a641"/><rect x="112" y="277" width="18" height="10" rx="2" fill="#39d353"/><rect x="134" y="277" width="18" height="10" rx="2" fill="#69f0a0"/>
+<text x="24" y="316" class="m">$ <tspan class="cur">▮</tspan></text>
+</svg>

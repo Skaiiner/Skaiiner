@@ -1,0 +1,6 @@
+# Solo para generar el retrato ASCII en local (NO se usa en la GitHub Action)
+pillow==12.3.0
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+onnxruntime==1.30.0
+rembg==2.0.85

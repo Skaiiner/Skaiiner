@@ -1,0 +1,9 @@
+# Entorno y cachés locales
+.venv/
+__pycache__/
+*.pyc
+
+# Tu foto original y la versión procesada NUNCA se suben
+source-photo.*
+source-prepped.png
+photo/

@@ -1,0 +1,13 @@
+{
+  "handle": "Skaiiner",
+  "name": "MDCL",
+  "since": "2021",
+  "role": "Software developer",
+  "stack": ["TypeScript", "Python", "PowerShell"],
+  "focus": ["desktop apps", "local-first AI", "computer vision"],
+  "projects": [
+    {"name": "GeoPilot", "repo": "gps", "text": "iPhone GPS location simulator (desktop)"},
+    {"name": "Vocal AI Studio", "repo": "Vocal-IA-Studio", "text": "local-first vocal studio"},
+    {"name": "VisageCam", "repo": "VisageCam", "text": "virtual camera with face filters"}
+  ]
+}
