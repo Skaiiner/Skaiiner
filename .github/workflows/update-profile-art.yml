@@ -15,9 +15,10 @@ name: Update profile art
 permissions:
   contents: write
 
+# Las ejecuciones se encolan (no se cancelan): cada una parte del último commit de main.
 concurrency:
   group: update-profile-art
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   heatmap:
