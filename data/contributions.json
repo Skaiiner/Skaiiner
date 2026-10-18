@@ -1,46 +1,11 @@
 {
  "user": "Skaiiner",
- "from": "2025-10-12",
- "to": "2026-10-17",
- "total": 96,
- "current_streak": 11,
- "longest_streak": 11,
+ "from": "2025-10-19",
+ "to": "2026-10-18",
+ "total": 97,
+ "current_streak": 12,
+ "longest_streak": 12,
  "days": [
-  {
-   "date": "2025-10-12",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-13",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-14",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-15",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-18",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-10-19",
    "count": 0,
@@ -1858,6 +1823,11 @@
   },
   {
    "date": "2026-10-17",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-18",
    "count": 0,
    "level": 0
   }
