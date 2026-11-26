@@ -1,10 +1,10 @@
 {
  "user": "Skaiiner",
  "from": "2025-11-23",
- "to": "2026-11-25",
- "total": 135,
- "current_streak": 50,
- "longest_streak": 50,
+ "to": "2026-11-26",
+ "total": 136,
+ "current_streak": 51,
+ "longest_streak": 51,
  "days": [
   {
    "date": "2025-11-23",
@@ -1843,6 +1843,11 @@
   },
   {
    "date": "2026-11-25",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-26",
    "count": 0,
    "level": 0
   }
